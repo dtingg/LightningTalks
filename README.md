@@ -12,5 +12,5 @@ Twitter Bot Program
 
 
 ### **August 2019**
-Becoming a Software Developer Presentation
+Becoming a Software Developer Presentation  
 Horoscope Program, Web Mashup, Twitter Bot Program, Chocolate Factory Program
