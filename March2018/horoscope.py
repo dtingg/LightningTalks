@@ -155,7 +155,7 @@ response = requests.get(url)
 content = response.content
 
 # Convert content to beautiful soup format
-soup = BeautifulSoup(content, "lxml")
+soup = BeautifulSoup(content, "html.parser")
 
 # For Today's Birthday horoscope
 if birthday == True:
